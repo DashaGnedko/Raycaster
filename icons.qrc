@@ -1,0 +1,9 @@
+<!DOCTYPE RCC><RCC version="1.0">
+ <qresource>
+    <file>icons/cleaning.png</file>
+    <file>icons/light.png</file>
+    <file>icons/polygons.png</file>
+    <file>icons/shadow.png</file>
+    <file>icons/street-light.png</file>
+ </qresource>
+ </RCC>
